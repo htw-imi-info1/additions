@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TablePrinter
+comment1.params=name\ n
+comment1.target=void\ printEmpty(java.lang.String,\ int)
+comment2.params=name\ a
+comment2.target=void\ printTable(java.lang.String,\ java.lang.Object[])
+comment3.params=n\ a\ printEmpty
+comment3.target=void\ printRows(java.lang.String,\ java.lang.Object[],\ boolean)
+comment4.params=n\ a
+comment4.target=void\ printHeader(java.lang.String,\ java.lang.Object[])
+comment5.params=b
+comment5.target=java.lang.String\ b2s(boolean)
+numComments=6

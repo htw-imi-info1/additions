@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Address
+comment1.params=street\ city
+comment1.target=Address(java.lang.String,\ java.lang.String)
+comment2.params=street
+comment2.target=void\ setStreet(java.lang.String)
+comment3.params=city
+comment3.target=void\ setCity(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getStreet()
+comment5.params=
+comment5.target=java.lang.String\ getCity()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Implement\ a\ toString()\ variant\ that\ returns\ a\ String\ representation\n\ that\ can\ be\ used\ to\ determine\ equality\ for\ this\ simple\ Addresses.\n
+comment7.params=otherAnyType
+comment7.target=boolean\ equals(java.lang.Object)
+comment7.text=\n\ uses\ String\ representation\ (street,\ city)\n\ to\ easily\ implement\ equals()\ -\ otherwise\ the\ strings\ in\ \n\ street\ &\ city\ had\ to\ be\ compared\ one\ by\ one.\n
+comment8.params=
+comment8.target=int\ hashCode()
+comment8.text=\n\ Using\ the\ toString()\ implementation\ it's\ easy\ to\ implement\n\ a\ hashCode()\ implementation\ by\ using\ String's\ implementation.\n
+numComments=9
